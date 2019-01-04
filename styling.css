@@ -1,0 +1,45 @@
+body{
+  background-color: #fcd;
+}
+.heading{
+  font-size: 60px;
+  width:50%;
+  height:50%;
+  font-style: normal;
+  font-family: Monotype corsiva;
+  color:#fff;
+}
+.container{
+  margin-left: 500px;
+  justify-content: center ;
+}
+.table_container{
+  border-radius: 10px;
+  width:50%;
+  height:50%;
+  background-color: #ccf;
+  text-align: center;
+  margin:;
+  padding:;
+  display: grid;
+  grid-template-rows:;
+  justify-content: center ;
+}
+.operator{
+  font-size: 2em;
+}
+
+.btn{
+  font-size: 2em;
+}
+.num{
+  font-size: 2em;
+}
+.display{
+  color:black;
+  background-color: pink;
+  height:70px;
+  font-style: normal;
+  font-size: 2em;
+  font-family: Monotype corsiva;
+}
